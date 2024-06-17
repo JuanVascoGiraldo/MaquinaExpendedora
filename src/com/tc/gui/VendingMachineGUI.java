@@ -564,8 +564,4 @@ public class VendingMachineGUI extends JFrame {
         B6.addMouseListener(ml);
     }
 
-
 }
-
-
-
